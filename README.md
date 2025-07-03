@@ -7,7 +7,8 @@ Use it for resume rewrites, therapy-lite sessions, automation ideas, or existent
 
 git clone https://github.com/jsmith-obrien/terok-nor.git
 
-```cd terok-nor
+```
+cd terok-nor
 python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt
 bash start_linux.sh
 ```
