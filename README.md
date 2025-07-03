@@ -14,3 +14,10 @@ bash start_linux.sh
 ```
 
 Then open your browser to: http://localhost:7860
+
+
+
+
+<p align="right">
+  <img src="https://static.wikia.nocookie.net/ktarnfleet/images/2/29/DS9.png" alt="Terok Nor" width="200"/>
+</p>
