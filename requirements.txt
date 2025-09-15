@@ -47,7 +47,7 @@ gitdb==4.0.12
 GitPython==3.1.44
 gptq-for-llama @ https://github.com/jllllll/GPTQ-for-LLaMa-CUDA/releases/download/0.1.1/gptq_for_llama-0.1.1+cu121-cp310-cp310-linux_x86_64.whl
 gradio==4.23.0
-gradio_client==0.14.0
+gradio_client==1.13.0
 grpcio==1.73.1
 h11==0.16.0
 hf-xet==1.1.5
