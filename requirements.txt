@@ -13,7 +13,7 @@ attrs==25.3.0
 auto-gptq @ https://github.com/jllllll/AutoGPTQ/releases/download/v0.6.0/auto_gptq-0.6.0+cu121-cp310-cp310-linux_x86_64.whl
 autoawq==0.2.3
 autoawq_kernels==0.0.9
-bitsandbytes==0.43.3
+bitsandbytes==0.48.1
 blinker==1.9.0
 certifi==2025.6.15
 chardet==5.2.0
